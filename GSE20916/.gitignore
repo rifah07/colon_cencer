@@ -1,0 +1,5 @@
+# ignore all csv
+*.csv
+
+# ignore series matrix
+GSE20916_series_matrix.txt
