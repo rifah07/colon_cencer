@@ -1,5 +1,5 @@
 # ignore all csv
 *.csv
 
-# ignore all txt file
-*.txt
+# ignore series matrix
+GSE44076_series_matrix.txt
