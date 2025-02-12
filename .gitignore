@@ -1,0 +1,5 @@
+# ignore all csv
+*.csv
+
+GSE113513_merged_data_final.csv
+GSE44076_merged_data.csv
